@@ -2,7 +2,7 @@
   <https://te.legra.ph/file/aa097844020467e61fe3a.jpg>
 </p>
 <h1 align="center">
-  <b>GwGxBot - UserBot</b>
+  <b>GwGxUserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot, based on Telethon.</b>
