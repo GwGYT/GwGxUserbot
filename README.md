@@ -7,12 +7,12 @@
 
 <b>A stable pluggable Telegram userbot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/GwGxBot-v0.1-blue)](#)
+[![](https://img.shields.io/badge/GwGxUserbot-v0.1-blue)](#)
 
-[![Stars](https://img.shields.io/github/stars/GWGYT/GwGxBot?style=flat-square&color=yellow)](https://github.com/GwGYT/GwGxBot/stargazers)
+[![Stars](https://img.shields.io/github/stars/GWGYT/GwGxUserbot?style=flat-square&color=yellow)](https://github.com/GwGYT/GwGxUserbot/stargazers)
 
-[![Forks](https://img.shields.io/github/forks/GwGYT/GwGxBot?style=flat-square&color=orange)](https://github.com/GwGYT/GWGXBOT/fork)
+[![Forks](https://img.shields.io/github/forks/GwGYT/GwGxuserbot?style=flat-square&color=orange)](https://github.com/GwGYT/GWGXuserbot/fork)
 
-[![Size](https://img.shields.io/github/repo-size/gwgyt/gwgxbot?style=flat-square&color=green)](https://github.com/gwgyt/gwgxbot/)   
+[![Size](https://img.shields.io/github/repo-size/gwgyt/gwgxuserbot?style=flat-square&color=green)](https://github.com/gwgyt/gwgxuserbot/)   
 
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
